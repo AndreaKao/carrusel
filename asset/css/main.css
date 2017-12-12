@@ -1,0 +1,16 @@
+#fondo {
+	background-color: #FFEEFF;
+}
+
+#titulo {
+	color: #BBBBFF;
+}
+
+.carrusel img {
+	width: 100%;
+	height: 40em;
+}
+
+.container {
+	text-align: center;
+}
